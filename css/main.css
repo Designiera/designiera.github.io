@@ -1844,7 +1844,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .default-header {
-  padding: 20px 60px;
+  padding: 20px 30px;
   position: absolute;
   top: 0;
   left: 0;
